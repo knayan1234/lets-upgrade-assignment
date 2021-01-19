@@ -1,0 +1,12 @@
+
+Q1) int a=0,b=0;
+      for(i=0;i<=N;i++)
+        a=a+1;
+       for(j=0;j<=M;j++)
+        b=b+j;
+
+     time complexity= O(m+n)
+     space complexity=O(1)
+
+Q2) algorithm x is asymptomatically more efficient than y means -
+  (b)x will be better choice for inputs except possibly small inputs.
